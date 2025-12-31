@@ -113,6 +113,7 @@
     pkgs.vital
     pkgs.kdePackages.kamoso
     pkgs.protonup-qt
+    pkgs.jetbrains.rider
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
