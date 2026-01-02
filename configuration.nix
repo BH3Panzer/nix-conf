@@ -117,6 +117,7 @@
     pkgs.gnumake
     pkgs.gcc-arm-embedded
     pkgs.dfu-util
+    pkgs.prismlauncher
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
