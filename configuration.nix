@@ -114,6 +114,9 @@
     pkgs.kdePackages.kamoso
     pkgs.protonup-qt
     pkgs.jetbrains.rider
+    pkgs.gnumake
+    pkgs.gcc-arm-embedded
+    pkgs.dfu-util
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
